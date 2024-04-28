@@ -61,3 +61,16 @@ footer {
     position: absolute;
     text-align: left;
 }
+.button{
+    text-decoration: none;
+    color: #333;
+    padding: 0.5em 1em;
+    border: 1px solid #333;
+    background-color: #ffffff;
+    margin: 0.5em;
+    border-radius: 5px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,78,1) 0%, rgba(153,184,255,1) 100%);
+    color: #ffffff;
+    margin: 2em;
+}
