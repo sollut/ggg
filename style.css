@@ -36,11 +36,10 @@ section {
     margin: 2em;
 }
 footer {
-    background-color: #333;
+    background: rgb(0, 234, 255);
     color: #ffffff;
     text-align: center;
     padding: 1em;
-    position: absolute;
     bottom: 0;
     width: 100%;
 }
@@ -54,7 +53,7 @@ footer {
 }
 .text{
     margin: 0 95%;
-    color: rgb(175, 249, 249);
+    color: rgb(198, 205, 255);
 }
 .back{
     display: block;
@@ -73,4 +72,12 @@ footer {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,78,1) 0%, rgba(153,184,255,1) 100%);
     color: #ffffff;
     margin: 2em;
+}
+.img1{
+    
+    width: 125px;
+    margin: 10px;
+}
+.img2{
+    width: 50px;
 }
